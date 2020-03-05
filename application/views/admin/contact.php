@@ -34,8 +34,8 @@
                 <li>NRP     : 05111740000150</li>
                 <li>Kelas   : PBKK B</li>
                 <li>Website : <a href="https://enzouleo.blogspot.com/"> Tugas PBKK </a> </li>
-                <li>Email   : <a href="mailto:galihpribadi04@gmail.com?"> gelombang05@gmail.com </a> </li>
-                <li>Twitter   : <a href="https://twitter.com/GalihPribadi13"> @SudrajadHadi </a> </li>
+                <li>Email   : <a href="mailto:galihpribadi04@gmail.com?"> galihpribadi04@gmail.com </a> </li>
+                <li>Twitter   : <a href="https://twitter.com/GalihPribadi13"> @GalihPribadi13 </a> </li>
               </ul>
             </div>
           </div>
